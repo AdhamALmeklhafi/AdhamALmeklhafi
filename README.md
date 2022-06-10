@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></a>
+<a href="#"><img style="border-radius:8px" width="60%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></a>
 </p>
 
 <h1 align="center">Hi👋, I'm Adham A Software Engineering</h1>
@@ -44,19 +44,19 @@
 <br />
 <p align="left">
     <a href="#">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adham streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamALmeklhafi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img  alt="Adham streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamALmeklhafi&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+<br/>
 
 ## 📊 My Github Stats
 
-  <br/>
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamALmeklhafi&show_icons=true&theme=tokyonight)](https://github.com/AdhamALmeklhafi)
-  <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamALmeklhafi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060A0CD0)](https://github.com/AdhamALmeklhafi)
+<br/>
 <br/>
 <br/>
 
-<a href="https://github.com/AdhamALmeklhafi/github-readme-activity-graph"><img alt="Adham Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdhamALmeklhafi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/AdhamALmeklhafi/github-readme-activity-graph"><img alt="Adham Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdhamALmeklhafi&theme=tokyonight&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -66,6 +66,7 @@
 <p align="left">
 
 <a href = "https://www.instagram.com/_epcu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100007828832636"><img src="https://img.icons8.com/bubbles/50/undefined/facebook-new.png"/></a>
 
 </p>
