@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img style="border-radius:8px" width="60%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></a>
+<a href="#"><img width="60%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></a>
 </p>
 
 <h1 align="center">Hi👋, I'm Adham A Software Engineering</h1>
@@ -66,7 +66,6 @@
 <p align="left">
 
 <a href = "https://www.instagram.com/_epcu/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100007828832636"><img src="https://img.icons8.com/bubbles/50/undefined/facebook-new.png"/></a>
 
 </p>
