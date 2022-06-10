@@ -51,7 +51,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamALmeklhafi&show_icons=true&theme=tokyodark)](https://github.com/AdhamALmeklhafi)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamALmeklhafi&show_icons=true&theme=tokyonight)](https://github.com/AdhamALmeklhafi)
   <br/>
 <br/>
 <br/>
