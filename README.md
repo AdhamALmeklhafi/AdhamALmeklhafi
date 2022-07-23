@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img style="border-radius: 30px;"  width="85%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"/></a>
+<a href="#"><img style="border-radius: 30px;"  width="65%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"/></a>
 </p>
 <h1 align="center">Hi 👋, I'm Adham Mustafa Al-Meklhafi</h1>
 <h2 align="center">A Full Stack Developer</h2>
