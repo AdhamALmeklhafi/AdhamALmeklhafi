@@ -7,6 +7,7 @@
 ## About Me
 
 - 🌱 I’m a student of **Computer Science**
+- 🪜 I’m currently learning Next & Flutter
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](#)**
 - 📫 How to reach me **adhammostfa310@gmail.com**
