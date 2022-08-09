@@ -1,7 +1,5 @@
-<p align="center">
-<a href="#"><img style="border-radius: 30px;"  width="65%" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif"/></a>
-</p>
-<h1 align="center">Hi  I'm Adham Mustafa Al-Meklhafi <br /> A Full Stack Developer </h1>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=40&pause=1000&color=27F7C4&background=1F91FF00&center=true&vCenter=true&width=442&lines=Hi+I+am+Adham+Mustafa+Al-Meklhafi;A+Full-Stack+Developer;A+UI+%26+UX)](https://git.io/typing-svg)
 
 
 ## About Me
@@ -51,3 +49,5 @@
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
