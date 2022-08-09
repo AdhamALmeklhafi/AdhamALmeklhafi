@@ -1,7 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Signika+Negative&size=35&pause=1000&color=16F7B9&width=442&lines=Hi+I+am+Adham++AL-Meklhafi;A+Full-Stack+Developer+...;UI+%26+UX+Designer+...;%E2%9D%A4%EF%B8%8F.%E2%9D%A4%EF%B8%8F.%E2%9D%A4%EF%B8%8F.%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&pause=1000&center=true&vCenter=true&width=443&lines=Hi+I+am+Adham+AL-Meklhafi+...;A+Full-Stack+Developer+...+;UI+%26+UX+Designer)](https://git.io/typing-svg)
 
 ## About Me
 
