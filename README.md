@@ -19,6 +19,8 @@
 
 <br />
 
+# GitHub Stats:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamALmeklhafi&show_icons=true&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdhamALmeklhafi&theme=dracula)](https://git.io/streak-stats)
