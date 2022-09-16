@@ -8,8 +8,9 @@
 
 # About Me
 
-- 🪜 I’m currently learning **Next & Flutter**
-- 👨‍💻 I’m looking to collaborate on **Open Source Projects**
+- 🪜 I’m currently learning **Next & Flutter**.
+- 👨‍💻 I’m looking to collaborate on **Open Source Projects**.
+- 📫 How to reach me **adhammostfa310@gmail.com**
 
 <br />
 
