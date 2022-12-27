@@ -26,7 +26,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdhamALmeklhafi&theme=dracula)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AdhamALmeklhafi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br />
 
