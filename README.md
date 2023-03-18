@@ -8,7 +8,7 @@
 
 # About Me
 
-- 🪜 I’m currently learning **Next & Flutter**.
+- 🪜 I’m currently learning **React.js & Django**.
 - 👨‍💻 I’m looking to collaborate on **Open Source Projects**.
 - 📫 How to reach me **adhammostfa310@gmail.com**
 
@@ -21,6 +21,8 @@
 <br />
 
 # GitHub Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamALmeklhafi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdhamALmeklhafi&show_icons=true&theme=dracula)
 
