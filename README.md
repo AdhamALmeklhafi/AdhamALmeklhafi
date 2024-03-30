@@ -8,7 +8,7 @@
 
 # About Me
 
-- 🪜 I’m currently learning **React.js & Django**.
+- 🪜 I’m currently learning **Go & htmx**.
 - 👨‍💻 I’m looking to collaborate on **Open Source Projects**.
 - 📫 How to reach me **adhammostfa310@gmail.com**
 
