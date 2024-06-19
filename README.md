@@ -26,7 +26,6 @@
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?style=flat&logo=Socket.IO)
 ![Strapi](https://img.shields.io/badge/-Strapi-000?&logo=Strapi)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
